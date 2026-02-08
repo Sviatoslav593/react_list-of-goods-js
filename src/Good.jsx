@@ -1,1 +1,1 @@
-export const Good = ({ good }) => <li>{good}</li>;
+export const Good = ({ good }) => <li data-cy="Good">{good}</li>;
